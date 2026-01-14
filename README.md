@@ -1,8 +1,8 @@
-# cpp-problem-solving
+# C++ Problem Solving
 
-C++ Problem Solving – from Beginner to Advanced (progressing towards Professional level)
-This repository contains solutions to C++ problems for beginners to advanced learners.
-The goal is to practice problem solving, algorithms, and improve C++ skills.
+Welcome to my C++ Problem Solving repository!  
+This repository contains problems solved in C++ ranging from beginner to advanced levels.  
+The goal is to improve problem-solving skills and programming concepts progressively.
 
 ## Levels
 
@@ -12,13 +12,18 @@ The goal is to practice problem solving, algorithms, and improve C++ skills.
 - **Level 4**: Hard problems (planned)
 - **Level 5**: Very Hard problems (planned)
 
+## How to Use
 
-## How to use
+- Each level contains problems and their solutions.
+- Problems are organized to gradually increase in difficulty.
+- You can explore the code to understand different programming concepts and techniques in C++.
 
-- Navigate to the folder of the level you want to check.
-- Open the `.cpp` files to see the solutions.
-- Compile and run the programs using any C++ compiler.
+## Future Plans
 
-## Note
+- Continue solving more problems and fill Levels 2-5.
+- Link this repository with LinkedIn to showcase progress.
+- Expand into more advanced C++ topics and algorithms.
+
+- ## Note
 
 This repository will be continuously updated as new problems are solved and levels are added.
