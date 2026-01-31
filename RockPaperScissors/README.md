@@ -17,4 +17,3 @@ The project helped me practice:
 
 ## Notes
 - This is a beginner-level project.
-- Future improvements: add score tracking, multiple rounds, or GUI.
